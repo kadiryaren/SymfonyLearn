@@ -18,18 +18,18 @@ Daha sonra dosyamizi olustururuz.
     // command olusturmak icin Command sinifini extend etmemiz lazim
     // iki adet default fonksiyon hazirlamamiz lazim
 
-    protected function configure(){
-        $this
-            ->setName('app:hello')
-            ->setDescription('Ekrana Hello World Bastirir')
-            ->setHelp('php bin/console app:hello yazarsaniz ekrana hello world basar');
+        protected function configure(){
+            $this
+                ->setName('app:hello')
+                ->setDescription('Ekrana Hello World Bastirir')
+                ->setHelp('php bin/console app:hello yazarsaniz ekrana hello world basar');
 
-    }
+        }
 
-    protected function execute(InputInterface $input, OutputInterface $output){
-        $output->writeln('Hello World');
+        protected function execute(InputInterface $input, OutputInterface $output){
+            $output->writeln('Hello World');
 
-    }
+        }
 
 
     }
