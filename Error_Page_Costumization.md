@@ -6,7 +6,7 @@
 ```
     templates + bundleName + (bundle altinda ki view klasorunun alt yapisi ile ayni olacak) + Exceptions + twigFile 
 
-    templates/bundles/TwigBundle/Excetions/error.html.twig  // veya error[statusCode].html.twig
+    templates/bundles/TwigBundle/Exceptions/error.html.twig  // veya error[statusCode].html.twig
     error502.html.twig
 ```
 
