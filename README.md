@@ -9,3 +9,4 @@ My notes which i used for learn symfony!
 - [x] ([Twig Error Page Costumization](https://github.com/kadiryaren/SymfonyLearn/blob/main/Error_Page_Costumization.md))
 - [x] ([Create Console Commands](https://github.com/kadiryaren/SymfonyLearn/blob/main/Create_Console_Command.md))
 - [x] ([Console Arguments & Options](https://github.com/kadiryaren/SymfonyLearn/blob/main/Console_Arguments_%26_Options.md))
+- [x] ([Bundle & Component](https://github.com/kadiryaren/SymfonyLearn/blob/main/Bundle_Component.md))
