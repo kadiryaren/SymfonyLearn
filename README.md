@@ -16,3 +16,4 @@ My notes which i used for learn symfony!
 - [x] ([Flex Recipies](https://github.com/kadiryaren/SymfonyLearn/blob/main/Flex_Recipies_Bundles.md))
 - [x] ([Doctrine](https://github.com/kadiryaren/SymfonyLearn/blob/main/DoctrineUsage.md))
 - [x] ([DataFixtures and Faker](https://github.com/kadiryaren/SymfonyLearn/blob/main/DataFixturesAndFaker.md))
+- [x] ([Execute QueryBuilder and Raw SQL](https://github.com/kadiryaren/SymfonyLearn/blob/main/QueryBuilde_RawSQL.md))
