@@ -19,10 +19,6 @@ Find, FindAll ve FindBy gibi cagrilar yetmedigi zaman Repository icerisine kendi
                 ->orderBy('p.price', 'ASC')
                 ->getQuery();
 
-           
-
-           
-
             return $qb->execute(); 
             // return $qb->execute();  bu ifade aslinda geri donen select isleminin datalari ve array halinde doner.
 
