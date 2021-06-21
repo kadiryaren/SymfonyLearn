@@ -13,3 +13,4 @@ My notes which i used for learn symfony!
 - [x] ([Most Used Bundles](https://github.com/kadiryaren/SymfonyLearn/blob/main/Most_Used_Bundles.md))
 - [x] ([Let's Create Own Bundle!](https://github.com/kadiryaren/SymfonyLearn/blob/main/OwnBundle.md))
 - [x] ([Bundle Override!](https://github.com/kadiryaren/SymfonyLearn/blob/main/BundleOverride.md))
+- [x] ([Flex Recipies](https://github.com/kadiryaren/SymfonyLearn/blob/main/Flex_Recipies_Bundles.md))
