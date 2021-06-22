@@ -19,3 +19,4 @@ My notes which i used for learn symfony!
 - [x] ([Execute QueryBuilder and Raw SQL](https://github.com/kadiryaren/SymfonyLearn/blob/main/QueryBuilde_RawSQL.md))
 - [x] ([OneToMany](https://github.com/kadiryaren/SymfonyLearn/blob/main/OneToMany.md))
 - [x] ([ManyToMany](https://github.com/kadiryaren/SymfonyLearn/blob/main/ManyToMany.md))
+- [x] ([One To One (Missing)](xxx))
