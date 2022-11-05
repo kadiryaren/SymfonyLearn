@@ -1,7 +1,6 @@
 # SymfonyLearn
 My notes which i used for learn symfony!
 
- - [x] ([Tiny Tricks](https://github.com/kadiryaren/SymfonyLearn/blob/main/tinyTricks.md))
 - [x] ([Request_Response](https://github.com/kadiryaren/SymfonyLearn/blob/main/Request_Reqponse.md))
 - [x] ([Twig Part-I](https://github.com/kadiryaren/SymfonyLearn/blob/main/Twig_1.md))
 - [x] ([Twig Part-II](https://github.com/kadiryaren/SymfonyLearn/blob/main/Twig_2.md))
